@@ -9,6 +9,7 @@ The PNGme tasks can be found [here](https://jrdngr.github.io/pngme_book/).
 - [x] Chapter 1
   - Completed 2023-11-20
 - [ ] Chapter 2
+  -  Started
 - [ ] Chapter 3
 - [ ] Chapter 4
 - [ ] Chapter 5
